@@ -7,5 +7,3 @@ Different software types are designed for different purposes, such as productivi
 I understood that good software must be secure, easy to use, and regularly updated.
 
 I realized how important software is in simplifying daily tasks and improving work efficiency.
-
-software from github
