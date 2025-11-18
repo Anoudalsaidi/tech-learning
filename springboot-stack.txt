@@ -1,0 +1,15 @@
+Spring Boot Stack: Frontend, Backend, Database
+
+Spring Boot is a Java-based framework used to build modern, scalable, and production-ready web applications. It simplifies backend development by providing ready-to-use components and reducing boilerplate code.
+
+- Frontend:
+  The frontend can be built using any technology such as **React, Angular, Vue, or traditional HTML/CSS/JavaScript**. Spring Boot often serves the frontend content via **Thymeleaf** templates for server-side rendering in Java applications.
+
+- Backend:
+  Spring Boot handles the backend using Java. It provides features like **REST APIs, dependency injection, security, and microservices support**. The backend processes client requests, implements business logic, and communicates with the database efficiently.
+
+- Database:
+  Spring Boot works with relational databases like **MySQL, PostgreSQL, and Oracle** as well as NoSQL databases like **MongoDB**. It uses **Spring Data JPA** or **JDBC** to simplify database interactions and ensure reliable data management.
+
+Conclusion:
+The Spring Boot stack offers a robust Java-based solution for building full-stack applications. Combining a flexible frontend, powerful backend, and reliable database integration, it allows developers to create scalable, maintainable, and secure web applications.

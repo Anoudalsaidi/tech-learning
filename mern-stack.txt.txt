@@ -1,0 +1,15 @@
+MERN Stack: MongoDB, Express.js, React, Node.js
+
+The MERN stack is a popular set of technologies used for full-stack web development. It allows developers to build modern, scalable, and interactive web applications using JavaScript throughout the entire development process.
+
+- Frontend (React):
+  React is a JavaScript library used for building the user interface of a web application. It enables developers to create reusable components, manage the application state efficiently, and make the frontend interactive and dynamic.
+
+- Backend (Node.js & Express.js):
+  Node.js is a JavaScript runtime that runs server-side code, while Express.js is a framework built on Node.js to simplify backend development. Together, they handle client requests, implement business logic, and communicate with the database securely and efficiently.
+
+- Database (MongoDB):
+  MongoDB is a NoSQL database that stores data in flexible, JSON-like documents. It is ideal for handling large volumes of data and allows easy integration with the backend using JavaScript. MongoDB ensures scalability and fast data access for web applications.
+
+Conclusion:
+The MERN stack provides a complete JavaScript-based solution for developing web applications. Using React, Node.js, Express.js, and MongoDB together allows developers to build modern, responsive, and efficient full-stack applications from frontend to backend.
