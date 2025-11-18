@@ -4,3 +4,10 @@ System Software – Runs and manages the computer (e.g., operating systems like 
 Application Software – Programs for user tasks (e.g., Word, games, browsers).
 
 Utility Software – Tools that help maintain the system (e.g., antivirus, backup tools).
+
+Web Applications
+Web applications run through a web browser and don’t need to be installed on the device.
+
+They can be accessed from anywhere as long as there is an internet connection.
+
+Examples include email platforms, online shopping sites, and cloud-based tools like Google Docs.
