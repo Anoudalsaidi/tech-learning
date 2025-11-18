@@ -21,6 +21,4 @@ Desktop applications are software programs installed directly on a computer or l
 
 They often offer powerful features and can work without an internet connection.
 
-Examples include Microsoft Word, Photoshop, and video editing programs.
 
-new update 
