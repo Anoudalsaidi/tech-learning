@@ -1,0 +1,15 @@
+git init: This command starts a new Git repository in your project. It tells Git to begin tracking your files.
+
+git clone [URL]: Copies a remote repository (like one on GitHub) to your computer so you can work on it.
+
+git add .: Prepares (stages) all the changed files so they can be saved in the next commit.
+
+git commit -m "message": Saves your staged changes with a short message explaining what you did.
+
+git status: Shows which files were changed, which are staged, and if anything is ready to commit.
+
+git push: Uploads your commits from your local machine to a remote repository (e.g., GitHub).
+
+git pull: Downloads and merges the latest changes from the remote repository into your project.
+
+git branch: Shows all branches, and can also be used to create or delete branches.
