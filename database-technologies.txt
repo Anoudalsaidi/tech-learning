@@ -1,0 +1,15 @@
+Database Technologies: MySQL, MongoDB, PostgreSQL
+
+Databases are used in web development to store, organize, and manage data for websites and applications. They allow backend systems to save, retrieve, and update information efficiently.
+
+- MySQL:
+  MySQL is a popular relational database management system (RDBMS). It organizes data into tables and uses SQL (Structured Query Language) for queries. MySQL is widely used for web applications due to its reliability and performance.
+
+- MongoDB:
+  MongoDB is a NoSQL database that stores data in flexible, JSON-like documents. It is suitable for handling large volumes of unstructured or semi-structured data and is often used in modern web applications.
+
+- PostgreSQL:
+  PostgreSQL is an advanced open-source relational database known for its robustness and support for complex queries. It provides features like data integrity, scalability, and support for multiple data types.
+
+Conclusion:
+MySQL, MongoDB, and PostgreSQL are essential database technologies that help developers manage data effectively, ensuring security, consistency, and performance in web applications.
