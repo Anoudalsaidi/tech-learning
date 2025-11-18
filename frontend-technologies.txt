@@ -1,0 +1,15 @@
+Frontend Technologies: HTML, CSS, and JavaScript
+
+Frontend development focuses on the user interface and experience of a website or web application. It is the part that users see and interact with, and it uses several core technologies to build responsive and interactive pages.
+
+HTML (HyperText Markup Language):
+HTML is the structure of a webpage. It defines elements like headings, paragraphs, images, links, and lists. Without HTML, a web page cannot display content.
+
+CSS (Cascading Style Sheets):
+CSS is used to style HTML elements. It controls colors, fonts, layouts, spacing, and responsiveness. CSS makes websites visually appealing and ensures they look good on different devices.
+
+JavaScript (JS):
+JavaScript adds interactivity and dynamic behavior to web pages. It enables features like forms validation, sliders, pop-ups, animations, and real-time content updates. JS works closely with HTML and CSS to make web pages functional and engaging.
+
+Conclusion:
+HTML, CSS, and JavaScript are the foundation of frontend development. Together, they create websites that are structured, visually attractive, and interactive, providing a smooth and engaging user experience.
