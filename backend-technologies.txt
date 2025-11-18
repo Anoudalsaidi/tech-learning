@@ -1,0 +1,15 @@
+Backend Technologies: Node.js, Python, PHP
+
+Backend development handles the “behind-the-scenes” part of a website or web application. It manages servers, databases, and application logic to ensure that websites work correctly and efficiently. 
+
+- Node.js:
+  Node.js is a JavaScript runtime that allows developers to write server-side code. It is fast, scalable, and widely used for building real-time applications like chat apps and APIs.
+
+- Python:
+  Python is a versatile programming language used in backend development for web frameworks like Django and Flask. It is known for its simplicity, readability, and powerful libraries that make backend tasks easier.
+
+- PHP:
+  PHP is a server-side scripting language commonly used for web development. It is widely used to build dynamic websites and content management systems like WordPress.
+
+Conclusion:
+Node.js, Python, and PHP are popular backend technologies that enable developers to create secure, scalable, and efficient web applications. They work together with frontend technologies to deliver complete and functional websites.
