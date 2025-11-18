@@ -11,3 +11,9 @@ Web applications run through a web browser and don’t need to be installed on t
 They can be accessed from anywhere as long as there is an internet connection.
 
 Examples include email platforms, online shopping sites, and cloud-based tools like Google Docs.
+
+Mobile applications are software designed to run on smartphones and tablets.
+
+They provide services or features like messaging, navigation, shopping, or entertainment.
+
+They are downloaded and installed from app stores such as Google Play or the Apple App Store.
