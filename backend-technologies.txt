@@ -17,5 +17,6 @@ Backend development handles the “behind-the-scenes” part of a website or web
 - Ruby:
   Ruby is a dynamic programming language commonly used with the Ruby on Rails framework. It is known for simplicity, speed of development, and convention-over-configuration approach.
 
+more
 Conclusion:
 Node.js, Python, and PHP are popular backend technologies that enable developers to create secure, scalable, and efficient web applications. They work together with frontend technologies to deliver complete and functional websites.
