@@ -11,5 +11,11 @@ Backend development handles the “behind-the-scenes” part of a website or web
 - PHP:
   PHP is a server-side scripting language commonly used for web development. It is widely used to build dynamic websites and content management systems like WordPress.
 
+- Java:
+  Java is a robust, object-oriented programming language often used for enterprise-level backend development. Frameworks like Spring Boot make it easier to build scalable and secure web applications.
+
+- Ruby:
+  Ruby is a dynamic programming language commonly used with the Ruby on Rails framework. It is known for simplicity, speed of development, and convention-over-configuration approach.
+
 Conclusion:
 Node.js, Python, and PHP are popular backend technologies that enable developers to create secure, scalable, and efficient web applications. They work together with frontend technologies to deliver complete and functional websites.

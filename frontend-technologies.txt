@@ -11,5 +11,12 @@ CSS is used to style HTML elements. It controls colors, fonts, layouts, spacing,
 JavaScript (JS):
 JavaScript adds interactivity and dynamic behavior to web pages. It enables features like forms validation, sliders, pop-ups, animations, and real-time content updates. JS works closely with HTML and CSS to make web pages functional and engaging.
 
+
+- React:
+  React is a popular JavaScript library for building interactive user interfaces. It allows developers to create reusable components and manage the state of applications efficiently.
+
+- Vue:
+  Vue is a progressive JavaScript framework for building modern and reactive web interfaces. It is easy to learn, flexible, and suitable for both small and large-scale projects.
+
 Conclusion:
 HTML, CSS, and JavaScript are the foundation of frontend development. Together, they create websites that are structured, visually attractive, and interactive, providing a smooth and engaging user experience.
