@@ -1,3 +1,5 @@
 Title :web-development
 
 Web development is the process of creating websites and web applications that run on the internet. It involves building the structure, design, and functionality of a website so that users can interact with it easily. Web development is usually divided into two parts: front-end development, which focuses on what users see and interact with, and back-end development, which handles servers, databases, and the logic behind the scenes. Overall, web development combines coding, design, and problem-solving to make websites functional, attractive, and user-friendly.
+
+Frontend development is the part of web development that focuses on what users see and interact with on a website. It involves designing layouts, buttons, forms, and navigation using languages like HTML, CSS, and JavaScript. Frontend developers ensure that websites are responsive, meaning they work well on different devices like phones, tablets, and desktops. They also focus on user experience (UX), making websites easy and enjoyable to use. Modern frontend development often uses frameworks like React, Angular, or Vue to build interactive and dynamic interfaces.
