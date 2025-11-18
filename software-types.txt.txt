@@ -17,3 +17,8 @@ Mobile applications are software designed to run on smartphones and tablets.
 They provide services or features like messaging, navigation, shopping, or entertainment.
 
 They are downloaded and installed from app stores such as Google Play or the Apple App Store.
+Desktop applications are software programs installed directly on a computer or laptop.
+
+They often offer powerful features and can work without an internet connection.
+
+Examples include Microsoft Word, Photoshop, and video editing programs.
